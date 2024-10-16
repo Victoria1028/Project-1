@@ -1,0 +1,552 @@
+body{
+    margin: 0;
+}
+
+h1{
+    font-family: "Josefin Slab", serif;
+    font-size: 125px;
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    left: 27%;
+    color: white;
+    }  
+
+.header_image{
+    position: relative;
+    height: 500px;
+}
+
+img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.login_bar{
+    width: 100%;
+    height: 50px;
+    background-color: #CFCFCD;
+}
+
+/*------------------------*/
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #CFCFCD;
+
+}
+  
+li {
+    float: left;  
+    position: relative;
+    left: 35%;
+    font-family: "Josefin Slab", serif;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+  
+/* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #a3a3a3;
+    color: white;
+}
+
+/*------------------------*/
+
+.intro_par{
+    text-align: center;
+    font-family: "Josefin Slab", serif;
+    width: 700px;
+    position: relative;
+    top: 27%;
+    left: 25%;
+    margin: 0;
+    font-weight: 500;
+    font-size:larger;
+}
+
+.intro_par_back{
+    width: 100%;
+    height: 200px;
+    background-color: #f1f1f1;
+}
+
+/*------------------------*/
+
+.letnum{
+    height: 750px;
+}
+.two{
+    font-family: "Josefin Slab", serif;
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+    top: 113%;
+    left: 43%;
+    color: white;
+    }  
+    
+.character_set{
+    width: 100%;
+    height: 50px;
+    background-color: rgba(97, 55, 28, 0.833);
+}
+
+.character_img{
+    position: relative;
+    height: 750px;
+}
+
+.set{
+    position: absolute;
+    top: 160%;
+    left: 28%;
+}
+
+.letters{
+    font-size: 40px;
+    font-family: "Josefin Slab", serif;
+    line-height: 50px; /*LEADING (SPACE BETWEEN LINES OF LETTERS)*/
+    letter-spacing: 5px; /*TRACKING (SPACE BETWEEN GROUPS OF LETTERS)*/
+    text-align: center;
+    color: #41300d;
+    font-weight: 500;
+    margin: 0;
+}
+
+.numbers{
+    font-size: 30px;
+    font-family: "Josefin Slab", serif;
+    line-height: 50px; /*LEADING (SPACE BETWEEN LINES OF LETTERS)*/
+    letter-spacing: 5px; /*TRACKING (SPACE BETWEEN GROUPS OF LETTERS)*/
+    text-align: center;
+    color: #41300d;
+    font-weight: 500;
+}
+
+/*------------------------*/
+
+.three{
+    font-family: "Josefin Slab", serif;
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+    top: 228%;
+    left: 43%;
+    color: white;
+    }  
+
+.for_display{
+    width: 100%;
+    height: 50px;
+    background-color: rgba(97, 55, 28, 0.833);
+}
+
+.display{
+    width: 100%;
+    height: 620px;
+    background-color: #f1f1f1;
+}
+
+.whimsical{
+    font-family: "Josefin Slab", serif;
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    top: 240%;
+    left: 10%;
+    color:  rgba(97, 55, 28, 0.833);
+}
+
+.gardens{
+    font-family: "Josefin Slab", serif;
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    top: 250%;
+    left: 25%;
+    color:  rgba(97, 55, 28, 0.833);
+}
+
+.greenhouses{
+    font-family: "Josefin Slab", serif;
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    top: 260%;
+    left: 30%;
+    color:  rgba(97, 55, 28, 0.833);
+}
+
+.and{
+    font-family: "Josefin Slab", serif;
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    top: 270%;
+    left: 43%;
+    color:  rgba(97, 55, 28, 0.833);
+}
+
+.plants{
+    font-family: "Josefin Slab", serif;
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    top: 280%;
+    left: 45%;
+    color:  rgba(97, 55, 28, 0.833);
+}
+
+.it_is{
+    font-family: "Josefin Slab", serif;
+    font-size: 60px;
+    position: absolute;
+    text-align: center;
+    top: 295%;
+
+
+    left: 60%;
+    color:  rgba(97, 55, 28, 0.833);
+    font-weight: 800;
+}
+
+/*------------------------*/
+
+.four{
+    font-family: "Josefin Slab", serif;
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+    top: 324%;
+    left: 44%;
+    color: white;
+}
+
+.body_copy{
+    width: 100%;
+    height: 50px;
+    background-color: rgba(97, 55, 28, 0.833);
+}
+
+.body{
+    text-align: center;
+    margin: 0;
+}
+
+.body_back{
+    width: 100%;
+    height: 540px;
+    background-color: #f1f1f1;
+}
+
+.body1{
+    font-family: "Josefin Slab", serif;
+    text-align: left;
+    width: 60%;
+    position: relative;
+    left: 9%;
+    top: 15%;
+    margin: 0;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.body2{
+    font-family: "Josefin Slab", serif;
+    text-align: right;
+    width: 60%;
+    position: relative;
+    left: 30%;
+    top: 17%;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.body3{
+    font-family: "Josefin Slab", serif;
+    text-align: left;
+    width: 60%;
+    position: relative;
+    left: 9%;
+    top: 20%;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.body4{
+    font-family: "Josefin Slab", serif;
+    text-align: right;
+    width: 60%;
+    position: relative;
+    left: 30%;
+    top: 22%;
+    font-weight: 500;
+    font-size: medium;
+}
+
+/*------------------------*/
+
+.five{
+    font-family: "Josefin Slab", serif;
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+    top: 409%;
+    left: 46%;
+    color: rgb(255, 255, 255);
+    z-index: 1;
+}
+
+.events{
+    width: 100%;
+    height: 50px;
+    background-color:  rgb(71, 87, 78);
+}
+
+/*------------------------*/
+
+.whimsy_img{
+    height: 1000px
+}
+
+.event_one{
+    position: relative;
+    height: 1000px;
+}
+
+.event1 {
+    position: absolute;
+    top: 10%;
+}
+
+.whimsy_back{
+    background-color: rgba(71, 87, 78, 0.638);
+    left: 15%;
+    margin: auto;
+    width: 70%;
+    height: 180px;
+    padding: 10px;
+    position: absolute;
+    top: 7%;
+}
+
+.whimsy{
+    font-family: "Josefin Slab", serif;
+    font-weight: 800;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.afternoon{
+    font-family: "Josefin Slab", serif;
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.date1{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    left: 70%;
+    position: absolute;
+}
+
+.whimsy_body{
+    font-family: "Josefin Slab", serif;
+    color: white;
+    position: relative;
+    top: 350px;
+    left: 25%;
+    background-color: rgba(71, 87, 78, 0.638);
+    width: 50%;
+    line-height: 20px; 
+    text-align: center;
+    padding: 10px;
+    font-weight: 500;
+}
+
+/*------------------------*/
+
+
+.divider1{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(164, 133, 101);
+}
+
+/*------------------------*/
+
+.enchanted_img{
+    height: 1000px;
+}
+
+.event_two{
+    position: relative;
+    height: 1000px;
+}
+
+.event2{
+    position: absolute;
+    top: 10%;
+}
+
+.enchant_back{
+    background-color: rgba(164, 132, 101, 0.638);
+    width: 100%;
+    height: 155px;
+    left: 3%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: absolute;
+    top:15%;
+}
+
+.enchant{
+    font-family: "Josefin Slab", serif;
+    font-weight: 800;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    top: 10%;
+    left: 5%;
+    position: absolute;
+    z-index: 1;
+}
+
+.date2{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    top: 34%;
+    left: 5%;
+    position: absolute;
+}
+
+
+.enchanted_body{
+    font-family: "Josefin Slab", serif;
+    color: white;
+    position: relative;
+    top: 150%;
+    width: 50%;
+    background-color: rgba(164, 132, 101, 0.638);
+    top: 450px;
+    left: 3%;
+    line-height: 20px;
+    padding: 10px;
+    font-weight: 500;
+}
+
+/*------------------------*/
+
+.divider2{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(99, 82, 110);
+}
+
+/*------------------------*/
+
+.lit_img{
+    height: 1000px;
+}
+
+.event_three{
+    position: relative;
+    height: 1000px;
+}
+
+.event3{
+    position: absolute;
+    top: 10%;
+}
+
+.lit_back{
+    background-color: rgb(99, 82, 110, 0.638);
+    width: 100%;
+    height: 200px;
+    left: 48.5%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: absolute;
+    top:25%;
+}
+
+.literary{
+    font-family: "Josefin Slab", serif;
+    font-weight: 800;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    top: 17%;
+    left: 55%;
+    position: absolute;
+    z-index: 1;
+}
+
+.words{
+    font-family: "Josefin Slab", serif;
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    top: 55%;
+    left: 68%;
+    position: absolute;
+}
+
+.date3{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    top: 62%;
+    left: 74%;
+    position: absolute;
+}
+
+.lit_body{
+    font-family: "Josefin Slab", serif;
+    color: white;
+    position: relative;
+    top: 350px;
+    width: 50%;
+    background-color: rgb(99, 82, 110, 0.638);
+    padding: 10px;
+}
+
+/*------------------------*/
+
+.footer{
+    font-family: "Josefin Slab", serif;
+    color: white;
+    background-color: rgb(99, 82, 110);
+    padding: 2%;
+    text-align: center;
+    font-weight: 600;
+}
